@@ -1,0 +1,8 @@
+h1{color: red;}
+body{ font-family: font-family: 'Pacifico', cursive;
+    font-family: 'Tiro Kannada', serif;;}
+section{ 
+    display: flex;
+}
+.half-width{ width: 50%;}
+.half-width img { width: 100%;}
